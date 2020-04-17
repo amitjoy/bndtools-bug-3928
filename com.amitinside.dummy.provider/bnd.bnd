@@ -1,0 +1,2 @@
+-privatepackage     : com.amitinside.dummy.*
+-buildpath          : com.amitinside.dummy.api
